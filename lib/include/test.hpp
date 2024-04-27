@@ -1,6 +1,8 @@
 #pragma once
 
+#include "core.hpp"
+
 
 namespace test {
-	void sayHello();
+	TP_CORE void sayHello();
 }
